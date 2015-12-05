@@ -13,6 +13,8 @@ A fullstack seed project for apps written in React, Hapi, and MongoDB.
 7. Eslint
 8. SASS
 9. JWT (optional)
+10. moment
+11. immutable
 
 ## Requirements
 1. Node v4+

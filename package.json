@@ -33,6 +33,7 @@
     "hapi": "^11.1.2",
     "hapi-auth-jwt2": "^5.2.1",
     "history": "^1.13.1",
+    "immutable": "^3.7.5",
     "install": "^0.4.0",
     "jwt-simple": "^0.4.0",
     "karma": "^0.13.15",
