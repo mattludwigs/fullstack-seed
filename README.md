@@ -33,7 +33,7 @@ Look at the assert.env file to see what is expected to be passed in.
 If you want to work with JWT the be sure to add your JWT token in the .env file like so:
 
 ```
-JWT-Batman
+JWT=Batman
 ```
 
 ### Run the server
