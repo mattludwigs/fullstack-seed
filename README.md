@@ -18,7 +18,7 @@ A fullstack seed project for apps written in React, Hapi, and MongoDB.
 1. Node v4+
 2. MongoDB or Docker
 
-## Useage
+## Usage
 
 ```
 git clone git@github.com:mattludwigs/fullstack-seed.git my-awesome-project
