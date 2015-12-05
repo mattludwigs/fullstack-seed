@@ -6,7 +6,7 @@ Description: Basic console.log using chalk
 
 API:
 
-1. okay
+okay
 
 Prints a message that is green
 
@@ -16,7 +16,7 @@ params: `message : String`
 okay('My okay message');
 ```
 
-2. info
+info
 
 Prints a message yellow
 
@@ -25,7 +25,7 @@ params: `message : String`
 ```
 info('let me tell you some info');
 ```
-3. `error`: Prints bold red and throws error
+error
 
 Prints a message bold read and throws and error
 params: `message : String`
@@ -34,7 +34,7 @@ params: `message : String`
 error('Broken things');
 ```
 
-4. log 
+log
 
 Prints a message given a color. Color defaults to cyan
 
