@@ -1,6 +1,6 @@
 {
   "name": "fullstack-seed",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Seed project for React, Hapi, and Mongo projects",
   "main": "server.js",
   "scripts": {
