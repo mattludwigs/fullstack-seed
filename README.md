@@ -24,7 +24,6 @@ A fullstack seed project for apps written in React, Hapi, and MongoDB.
 git clone git@github.com:mattludwigs/fullstack-seed.git my-awesome-project
 cd my-awesome-project && npm install
 touch .env
-
 ```
 
 ### The env file
@@ -55,3 +54,8 @@ Currenly you will need to terminal tabs open to run them at the same time
 ```
 npm test
 ```
+
+## Contributing
+
+In yoru PR make sure you have your branch being merged into the develop branch
+
