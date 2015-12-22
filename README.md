@@ -1,4 +1,4 @@
-# fullstack-seed v0.0.3
+# fullstack-seed v0.0.4
 
 A fullstack seed project for apps written in React, Hapi, and MongoDB.
 
